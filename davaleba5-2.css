@@ -1,0 +1,252 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner--contact {
+    display: flex;
+    flex-direction: column;
+    gap: 88px;
+    background: #07081A;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    background: #07081A;
+}
+
+.conteiner {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+}
+
+.cloudo {
+    border-bottom: 1px solid #261C51;
+}
+
+.Group--contact {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1040px;
+    padding: 14px 0;
+    justify-content: space-between;
+}
+
+.contact--conteiner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+}
+
+.home--contact {
+    color: #B968DE;
+}
+
+.contact--us a {
+    display: flex;
+    text-decoration: none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.contact--us .home--contact {
+    color: #B968DE;
+}
+
+.contact--us {
+    display: flex;
+    gap: 16px;
+}
+
+.Cloudo--conteiner {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.man--conteiner {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #9100D3;
+}
+
+.accelerate--contact {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px;
+}
+
+.development--conteiner {
+    justify-content: center;
+}
+
+.powered--assistant {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    width: 100%;
+    gap: 32px;
+}
+
+.productivity--contact {
+    color: #C0C0C0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.Download--app {
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #9100D3;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    border: none;
+}
+
+.logomark--conteiner {
+    display: flex;
+    align-items: center;
+    max-width: 900px;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.download--contact {
+    display: flex;
+    max-width: 900px;
+    width: 100%;
+    justify-content: center;
+}
+
+.magnolia--conteiner {
+    display: flex;
+    max-width: 900px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.stacked--contact {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+}
+
+.odeaLabs--contact {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.suggestions--conteiner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    min-width: 300px;
+    max-width: 1040px;
+    width: 100%;
+}
+
+.language--contact {
+    display: flex;
+    padding: 16px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    flex: 1;
+    align-self: stretch;
+    border-radius: 8px;
+    border: 1px solid #261C51;
+    max-width: 300px;
+    min-width: 256px;
+    width: 100%;
+}
+
+.any--language {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.applications--contact {
+    color: #C0C0C0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.supports--conteiner {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.cloudoai {
+    border-top: 1px solid #261C51;
+}
+
+.contact--footer {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.footer--reserved {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.Social--icon--contact {
+    display: flex;
+    gap: 24px;
+    padding: 14px 0;
+}
